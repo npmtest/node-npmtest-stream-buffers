@@ -1,4 +1,7 @@
-# test coverage for  [stream-buffers (v3.0.1)](https://github.com/samcday/node-stream-buffer#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-stream-buffers.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stream-buffers) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stream-buffers.svg)](https://travis-ci.org/npmtest/node-npmtest-stream-buffers)
+# npmtest-stream-buffers
+
+#### test coverage for  [stream-buffers (v3.0.1)](https://github.com/samcday/node-stream-buffer#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-stream-buffers.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stream-buffers) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stream-buffers.svg)](https://travis-ci.org/npmtest/node-npmtest-stream-buffers)
+
 #### Buffer-backed Streams for reading and writing.
 
 [![NPM](https://nodei.co/npm/stream-buffers.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stream-buffers)
